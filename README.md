@@ -1,16 +1,11 @@
 
 
- Visual demo
+https://github.com/user-attachments/assets/9b536f03-3e69-4dfc-a1e2-84d54d6c0ba8
 
-<!-- Reserve this block for an embedded MP4, GIF, or linked recording. Image/video label intentionally empty (alt=""). -->
 
-<p align="center">
-  https://github.com/user-attachments/assets/c35166f0-a2c0-45c0-af28-f7b2a3880f20
 
-</p>
-
+## Visual demo
 ---
-
 ## Core functionalities
 
 - **Secure webhook** — An Express-based listener that accepts external JSON payloads over HTTPS in production, with validation before persistence.
