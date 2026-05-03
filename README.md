@@ -5,10 +5,8 @@
 <!-- Reserve this block for an embedded MP4, GIF, or linked recording. Image/video label intentionally empty (alt=""). -->
 
 <p align="center">
-  <sub><em>https://github.com/user-attachments/assets/c35166f0-a2c0-45c0-af28-f7b2a3880f20
+  https://github.com/user-attachments/assets/c35166f0-a2c0-45c0-af28-f7b2a3880f20
 
-
-##</em></sub>
 </p>
 
 ---
