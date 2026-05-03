@@ -1,19 +1,14 @@
 
 
-https://github.com/user-attachments/assets/8ea8b1d4-5fce-490d-9348-f3cea8390269
-
-# API-to-Database Integration Service (Middleware)
-
-A high-performance bridge designed to synchronize 3rd-party API payloads into a local database with zero downtime.
-
----
-
-## Visual demo
+ Visual demo
 
 <!-- Reserve this block for an embedded MP4, GIF, or linked recording. Image/video label intentionally empty (alt=""). -->
 
 <p align="center">
-  <sub><em>Placeholder — add demo recording here.</em></sub>
+  <sub><em>https://github.com/user-attachments/assets/c35166f0-a2c0-45c0-af28-f7b2a3880f20
+
+
+##</em></sub>
 </p>
 
 ---
